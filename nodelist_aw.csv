@@ -1,0 +1,31 @@
+id,name,party,country,type,episode
+uvl,Ursula von der Leien,CDU,DE,1,500
+lk,Lars Klingbeil,SPD,DE,1,"500,503"
+nr,Norbert Roettgen,CDU,DE,1,"500,501"
+sw,Sahra Wagenknecht,Linke,DE,1,500
+cs,Constanze Stelzenmüller,NA,USA,1,500
+cl,Christian Lindner,FDP,DE,1,501
+ks,Karl Schloegel,NA,DE,1,501
+lm,Ljudmyla Melnyk,NA,UKR,1,501
+kd,Kristina Dunz,NA,DE,1,501
+el,Egils Levits,NA,LE,1,501
+ab,Annalena Bärbock,Grünen,DE,1,502
+ft,Frans Timmermans,GLPvda,NE,1,502
+am,Andrij Melnyk,NA,UKR,1,502
+agl,Alexander Graf Lambsdorff ,FDP,DE,1,"502,504"
+em,Egon Ramms,NA,DE,1,502
+rh,Robert Habeck,Grünen,DE,1,503
+cm,Claudia Major,NA,DE,1,503
+kp,Katja Petrowskaja,NA,UKR,1,503
+rk,Roderich Kiesewetter,CDU,DE,1,503
+cl,Christine Lambrecht,SPD,DE,1,504
+sb,Stefanie Babst,NA,UKR,1,504
+ch,Christoph Heusgen,NA,DE,1,504
+mw,Marina Weisband,NA,UKR,1,504
+os,Olaf Scholz,SPD,DE,1,505
+cdu,CDU,CDU,NA,2,NA
+spd,SPD,SPD,NA,2,NA
+fdp,FDP,FDP,NA,2,NA
+linke,Die Linke,Linke,NA,2,NA
+gruene,Die Grünen,Grünen,NA,2,NA
+glpvda,GL Pvda,GLPvda,NA,2,NA
